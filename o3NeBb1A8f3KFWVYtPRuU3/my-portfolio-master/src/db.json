@@ -1,0 +1,99 @@
+{
+  "about": {
+    "name": "VASANTH K",
+    "shortInfo": "A passionate Software Engineer building impactful solutions.",
+    "longInfo": "Angular Developer with 3 years of hands-on experience in designing, developing, and maintaining dynamic web applications using Angular frameworks. Proficient in building responsive, scalable, and user-friendly front-end solutions with a strong focus on performance optimization and maintainability. Adept at integrating RESTful APIs, implementing state management, and ensuring cross-browser compatibility."
+  },
+  "skills": [
+    {
+      "name": "Angular",
+      "exp": 3,
+      "id": "f5d6"
+    },
+    {
+      "name": "TypeScript",
+      "exp": 3,
+      "id": "1125"
+    },
+    {
+      "name": "NodeJS",
+      "exp": 3,
+      "id": "14f7"
+    },
+    {
+      "name": "MongoDB",
+      "exp": 3,
+      "id": "3c19"
+    },
+    {
+      "name": "HTML/CSS",
+      "exp": 3,
+      "id": "5f63"
+    },
+    {
+      "name": "SQL",
+      "exp": 3,
+      "id": "cbbf"
+    },
+    {
+      "name": "Express.js",
+      "exp": 3,
+      "id": "cbbc"
+    },
+    {
+      "name": "XML",
+      "exp": 3,
+      "id": "cbba"
+    },
+    {
+      "name": "Cypress",
+      "exp": 3,
+      "id": "cbbb"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Medchart",
+      "detail": "Medchart is a secure digital platform designed to streamline the process of accessing, managing, and sharing medical records across healthcare providers, legal firms, and insurance companies. The platform facilitates authorized requests, consent management, and real-time record retrieval while ensuring compliance with privacy regulations such as HIPAA and PHIPA.",
+      "url": "",
+      "tech": [
+        "Angular",
+        "XML",
+        "SQL"
+      ],
+      "id": "a2c5"
+    },
+    {
+      "name": "Orbis U-Composer",
+      "detail": "Orbis U-Composer is a dynamic web-based content creation and management platform designed for educational institutions and corporate training environments. The platform enables users to create, edit, and manage learning modules using an intuitive drag-and-drop interface. It supports integration of multimedia content, assessments, and customizable templates to deliver personalized learning experiences.",
+      "url": "",
+      "tech": [
+        "Angular",
+        "MongoDB",
+        "Node.js",
+        "Express.js"
+      ],
+      "id": "59ba"
+    }
+  ],
+  "contactme": [
+    {
+      "id": "552c",
+      "name": "Ved",
+      "email": "ved@codewithved.com",
+      "message": "Hi"
+    },
+    {
+      "id": "126f",
+      "name": "Ved",
+      "email": "ved@codewithved.com",
+      "message": "hi"
+    },
+    {
+      "id": "5e4f",
+      "name": "vasanth",
+      "email": "vasanth18cse@gmail.com",
+      "message": "vasanth on the way"
+    }
+  ]
+}
